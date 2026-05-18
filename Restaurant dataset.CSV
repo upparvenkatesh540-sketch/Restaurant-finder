@@ -1,0 +1,201 @@
+Restaurant_ID,Restaurant_Name,Cuisine,Area,City,Rating,Average_Price,Open_Status,Contact,Total_Orders,Delivery_Available
+1,Spice Hub,Fast Food,Whitefield,Bangalore,4.6,300,Closed,98XXXX2001,766,No
+2,Tandoori Treat,Cafe,Electronic City,Bangalore,4.1,250,Closed,98XXXX2002,835,Yes
+3,Udupi Delight,Cafe,Jayanagar,Bangalore,4,500,Open,98XXXX2003,363,No
+4,Burger Point,Chinese,Indiranagar,Bangalore,4.9,500,Open,98XXXX2004,612,No
+5,Biryani House,Cafe,Koramangala,Bangalore,4.6,400,Open,98XXXX2005,950,No
+6,Dosa Corner,South Indian,Hebbal,Bangalore,4.3,200,Closed,98XXXX2006,650,Yes
+7,Cafe Aroma,North Indian,Marathahalli,Bangalore,3.9,150,Closed,98XXXX2007,421,Yes
+8,Pizza Town,Chinese,Yelahanka,Bangalore,4.2,300,Closed,98XXXX2008,974,Yes
+9,Meals Magic,Pizza,Rajajinagar,Bangalore,4,150,Open,98XXXX2009,667,Yes
+10,Grill Palace,Chinese,Banashankari,Bangalore,4.8,500,Closed,98XXXX2010,106,No
+11,Spice Hub,Biryani,Whitefield,Bangalore,4.4,200,Closed,98XXXX2011,721,No
+12,Tandoori Treat,Pizza,Electronic City,Bangalore,4.5,250,Open,98XXXX2012,158,Yes
+13,Udupi Delight,Cafe,Jayanagar,Bangalore,3.9,500,Closed,98XXXX2013,941,Yes
+14,Burger Point,Fast Food,Indiranagar,Bangalore,3.9,300,Open,98XXXX2014,887,Yes
+15,Biryani House,North Indian,Koramangala,Bangalore,4.8,200,Closed,98XXXX2015,128,No
+16,Dosa Corner,Fast Food,Hebbal,Bangalore,3.9,250,Closed,98XXXX2016,369,No
+17,Cafe Aroma,North Indian,Marathahalli,Bangalore,3.9,400,Open,98XXXX2017,108,Yes
+18,Pizza Town,Cafe,Yelahanka,Bangalore,4.4,300,Open,98XXXX2018,496,Yes
+19,Meals Magic,Cafe,Rajajinagar,Bangalore,4.5,200,Open,98XXXX2019,517,Yes
+20,Grill Palace,North Indian,Banashankari,Bangalore,4.7,400,Open,98XXXX2020,426,No
+21,Spice Hub,Biryani,Whitefield,Bangalore,4.8,400,Closed,98XXXX2021,204,Yes
+22,Tandoori Treat,Chinese,Electronic City,Bangalore,5,150,Closed,98XXXX2022,469,Yes
+23,Udupi Delight,Chinese,Jayanagar,Bangalore,3.8,300,Closed,98XXXX2023,220,No
+24,Burger Point,Pizza,Indiranagar,Bangalore,4.2,500,Closed,98XXXX2024,90,No
+25,Biryani House,Fast Food,Koramangala,Bangalore,4.7,250,Closed,98XXXX2025,860,Yes
+26,Dosa Corner,Fast Food,Hebbal,Bangalore,4.9,250,Closed,98XXXX2026,485,No
+27,Cafe Aroma,Pizza,Marathahalli,Bangalore,4.1,200,Closed,98XXXX2027,736,Yes
+28,Pizza Town,Fast Food,Yelahanka,Bangalore,3.8,300,Closed,98XXXX2028,795,No
+29,Meals Magic,Cafe,Rajajinagar,Bangalore,4.5,150,Open,98XXXX2029,494,No
+30,Grill Palace,Fast Food,Banashankari,Bangalore,4.2,200,Open,98XXXX2030,338,Yes
+31,Spice Hub,Fast Food,Whitefield,Bangalore,4.4,250,Closed,98XXXX2031,302,No
+32,Tandoori Treat,Pizza,Electronic City,Bangalore,4.1,400,Open,98XXXX2032,854,Yes
+33,Udupi Delight,Biryani,Jayanagar,Bangalore,4.4,300,Closed,98XXXX2033,610,Yes
+34,Burger Point,Pizza,Indiranagar,Bangalore,4.6,150,Open,98XXXX2034,570,No
+35,Biryani House,Chinese,Koramangala,Bangalore,4.2,150,Open,98XXXX2035,703,Yes
+36,Dosa Corner,North Indian,Hebbal,Bangalore,4.2,400,Closed,98XXXX2036,686,Yes
+37,Cafe Aroma,South Indian,Marathahalli,Bangalore,4.1,400,Closed,98XXXX2037,570,No
+38,Pizza Town,Pizza,Yelahanka,Bangalore,3.8,250,Closed,98XXXX2038,790,Yes
+39,Meals Magic,Pizza,Rajajinagar,Bangalore,3.9,150,Open,98XXXX2039,680,No
+40,Grill Palace,Fast Food,Banashankari,Bangalore,4.5,300,Closed,98XXXX2040,904,No
+41,Spice Hub,North Indian,Whitefield,Bangalore,4.8,400,Open,98XXXX2041,157,Yes
+42,Tandoori Treat,Chinese,Electronic City,Bangalore,4.7,250,Closed,98XXXX2042,540,Yes
+43,Udupi Delight,Biryani,Jayanagar,Bangalore,4,150,Open,98XXXX2043,713,Yes
+44,Burger Point,Biryani,Indiranagar,Bangalore,4.6,200,Open,98XXXX2044,738,No
+45,Biryani House,Biryani,Koramangala,Bangalore,4.5,400,Closed,98XXXX2045,821,No
+46,Dosa Corner,South Indian,Hebbal,Bangalore,3.9,200,Closed,98XXXX2046,160,Yes
+47,Cafe Aroma,North Indian,Marathahalli,Bangalore,4.8,400,Open,98XXXX2047,448,Yes
+48,Pizza Town,Pizza,Yelahanka,Bangalore,4.7,400,Open,98XXXX2048,251,Yes
+49,Meals Magic,Chinese,Rajajinagar,Bangalore,3.8,400,Open,98XXXX2049,114,No
+50,Grill Palace,Biryani,Banashankari,Bangalore,5,500,Open,98XXXX2050,981,Yes
+51,Spice Hub,North Indian,Whitefield,Bangalore,4.2,250,Open,98XXXX2051,251,No
+52,Tandoori Treat,Chinese,Electronic City,Bangalore,4.3,300,Open,98XXXX2052,628,No
+53,Udupi Delight,Fast Food,Jayanagar,Bangalore,4.1,200,Closed,98XXXX2053,800,No
+54,Burger Point,North Indian,Indiranagar,Bangalore,4.8,250,Closed,98XXXX2054,309,No
+55,Biryani House,Chinese,Koramangala,Bangalore,4.2,400,Closed,98XXXX2055,332,No
+56,Dosa Corner,South Indian,Hebbal,Bangalore,4.6,400,Closed,98XXXX2056,822,No
+57,Cafe Aroma,Biryani,Marathahalli,Bangalore,4.5,400,Open,98XXXX2057,732,Yes
+58,Pizza Town,Fast Food,Yelahanka,Bangalore,4.8,300,Closed,98XXXX2058,571,Yes
+59,Meals Magic,Pizza,Rajajinagar,Bangalore,3.8,150,Open,98XXXX2059,712,Yes
+60,Grill Palace,North Indian,Banashankari,Bangalore,4.4,400,Open,98XXXX2060,156,No
+61,Spice Hub,Cafe,Whitefield,Bangalore,4.3,200,Closed,98XXXX2061,440,Yes
+62,Tandoori Treat,Cafe,Electronic City,Bangalore,4.8,300,Closed,98XXXX2062,733,Yes
+63,Udupi Delight,Biryani,Jayanagar,Bangalore,4.9,250,Closed,98XXXX2063,356,No
+64,Burger Point,North Indian,Indiranagar,Bangalore,3.9,500,Open,98XXXX2064,623,No
+65,Biryani House,Fast Food,Koramangala,Bangalore,4,500,Open,98XXXX2065,933,Yes
+66,Dosa Corner,Cafe,Hebbal,Bangalore,4,400,Open,98XXXX2066,828,Yes
+67,Cafe Aroma,Chinese,Marathahalli,Bangalore,4.1,300,Open,98XXXX2067,268,Yes
+68,Pizza Town,Fast Food,Yelahanka,Bangalore,4.7,400,Open,98XXXX2068,401,Yes
+69,Meals Magic,Cafe,Rajajinagar,Bangalore,4.4,150,Closed,98XXXX2069,440,Yes
+70,Grill Palace,North Indian,Banashankari,Bangalore,4.1,250,Closed,98XXXX2070,543,No
+71,Spice Hub,Biryani,Whitefield,Bangalore,4,500,Closed,98XXXX2071,700,Yes
+72,Tandoori Treat,Biryani,Electronic City,Bangalore,4.1,500,Open,98XXXX2072,587,No
+73,Udupi Delight,Pizza,Jayanagar,Bangalore,4.2,200,Open,98XXXX2073,180,Yes
+74,Burger Point,Fast Food,Indiranagar,Bangalore,4.5,400,Open,98XXXX2074,240,Yes
+75,Biryani House,Chinese,Koramangala,Bangalore,4.7,150,Closed,98XXXX2075,902,Yes
+76,Dosa Corner,Chinese,Hebbal,Bangalore,4.8,300,Closed,98XXXX2076,377,Yes
+77,Cafe Aroma,Fast Food,Marathahalli,Bangalore,4.8,200,Open,98XXXX2077,138,No
+78,Pizza Town,North Indian,Yelahanka,Bangalore,3.9,300,Open,98XXXX2078,936,No
+79,Meals Magic,Cafe,Rajajinagar,Bangalore,4.4,300,Closed,98XXXX2079,500,No
+80,Grill Palace,South Indian,Banashankari,Bangalore,4.5,250,Closed,98XXXX2080,682,No
+81,Spice Hub,South Indian,Whitefield,Bangalore,4.1,150,Open,98XXXX2081,349,No
+82,Tandoori Treat,Chinese,Electronic City,Bangalore,4.3,200,Closed,98XXXX2082,765,Yes
+83,Udupi Delight,South Indian,Jayanagar,Bangalore,4.4,500,Closed,98XXXX2083,259,No
+84,Burger Point,North Indian,Indiranagar,Bangalore,4.4,250,Open,98XXXX2084,457,No
+85,Biryani House,Pizza,Koramangala,Bangalore,4.2,250,Closed,98XXXX2085,212,No
+86,Dosa Corner,North Indian,Hebbal,Bangalore,4.5,200,Open,98XXXX2086,534,No
+87,Cafe Aroma,Pizza,Marathahalli,Bangalore,4.6,200,Closed,98XXXX2087,300,No
+88,Pizza Town,Pizza,Yelahanka,Bangalore,4.3,400,Closed,98XXXX2088,426,No
+89,Meals Magic,Chinese,Rajajinagar,Bangalore,4.4,500,Closed,98XXXX2089,658,Yes
+90,Grill Palace,Fast Food,Banashankari,Bangalore,4.8,400,Closed,98XXXX2090,331,No
+91,Spice Hub,Chinese,Whitefield,Bangalore,4.5,200,Closed,98XXXX2091,739,Yes
+92,Tandoori Treat,Fast Food,Electronic City,Bangalore,4.3,250,Closed,98XXXX2092,869,No
+93,Udupi Delight,Pizza,Jayanagar,Bangalore,4.6,150,Open,98XXXX2093,593,Yes
+94,Burger Point,Fast Food,Indiranagar,Bangalore,4.3,200,Open,98XXXX2094,325,Yes
+95,Biryani House,Chinese,Koramangala,Bangalore,4.7,500,Closed,98XXXX2095,858,Yes
+96,Dosa Corner,Biryani,Hebbal,Bangalore,4,150,Open,98XXXX2096,915,No
+97,Cafe Aroma,South Indian,Marathahalli,Bangalore,4.1,150,Closed,98XXXX2097,779,Yes
+98,Pizza Town,Chinese,Yelahanka,Bangalore,4.3,200,Open,98XXXX2098,832,Yes
+99,Meals Magic,South Indian,Rajajinagar,Bangalore,4.8,400,Closed,98XXXX2099,148,No
+100,Grill Palace,Fast Food,Banashankari,Bangalore,3.8,250,Open,98XXXX2100,646,Yes
+101,Spice Hub,Chinese,Whitefield,Bangalore,4.6,200,Open,98XXXX2101,954,Yes
+102,Tandoori Treat,Biryani,Electronic City,Bangalore,4.7,150,Open,98XXXX2102,184,No
+103,Udupi Delight,North Indian,Jayanagar,Bangalore,4.1,300,Open,98XXXX2103,858,Yes
+104,Burger Point,Chinese,Indiranagar,Bangalore,4.2,200,Open,98XXXX2104,259,No
+105,Biryani House,North Indian,Koramangala,Bangalore,4.6,500,Open,98XXXX2105,760,No
+106,Dosa Corner,South Indian,Hebbal,Bangalore,4.5,400,Closed,98XXXX2106,125,Yes
+107,Cafe Aroma,Cafe,Marathahalli,Bangalore,4.9,400,Closed,98XXXX2107,533,No
+108,Pizza Town,South Indian,Yelahanka,Bangalore,4.6,200,Open,98XXXX2108,822,No
+109,Meals Magic,North Indian,Rajajinagar,Bangalore,4.2,200,Open,98XXXX2109,422,No
+110,Grill Palace,Fast Food,Banashankari,Bangalore,4.3,400,Open,98XXXX2110,311,Yes
+111,Spice Hub,Fast Food,Whitefield,Bangalore,3.8,300,Closed,98XXXX2111,78,No
+112,Tandoori Treat,Chinese,Electronic City,Bangalore,4.6,150,Open,98XXXX2112,943,Yes
+113,Udupi Delight,Chinese,Jayanagar,Bangalore,4.2,400,Closed,98XXXX2113,893,No
+114,Burger Point,Chinese,Indiranagar,Bangalore,4.6,200,Closed,98XXXX2114,798,No
+115,Biryani House,Chinese,Koramangala,Bangalore,4.8,250,Open,98XXXX2115,374,Yes
+116,Dosa Corner,Fast Food,Hebbal,Bangalore,4.9,200,Open,98XXXX2116,876,No
+117,Cafe Aroma,Fast Food,Marathahalli,Bangalore,4.9,250,Closed,98XXXX2117,725,No
+118,Pizza Town,Pizza,Yelahanka,Bangalore,4,200,Open,98XXXX2118,518,No
+119,Meals Magic,Biryani,Rajajinagar,Bangalore,4.4,400,Closed,98XXXX2119,659,Yes
+120,Grill Palace,Cafe,Banashankari,Bangalore,4.8,300,Closed,98XXXX2120,407,No
+121,Spice Hub,Cafe,Whitefield,Bangalore,4.3,150,Closed,98XXXX2121,707,No
+122,Tandoori Treat,Cafe,Electronic City,Bangalore,4.6,300,Closed,98XXXX2122,409,Yes
+123,Udupi Delight,South Indian,Jayanagar,Bangalore,4.3,500,Open,98XXXX2123,188,Yes
+124,Burger Point,Cafe,Indiranagar,Bangalore,4.4,400,Open,98XXXX2124,631,No
+125,Biryani House,Biryani,Koramangala,Bangalore,4,400,Closed,98XXXX2125,406,No
+126,Dosa Corner,Fast Food,Hebbal,Bangalore,4.6,300,Open,98XXXX2126,377,No
+127,Cafe Aroma,Fast Food,Marathahalli,Bangalore,4,250,Open,98XXXX2127,834,Yes
+128,Pizza Town,Cafe,Yelahanka,Bangalore,4.3,500,Closed,98XXXX2128,620,Yes
+129,Meals Magic,North Indian,Rajajinagar,Bangalore,4.6,300,Closed,98XXXX2129,188,No
+130,Grill Palace,Cafe,Banashankari,Bangalore,4.6,500,Open,98XXXX2130,428,Yes
+131,Spice Hub,Biryani,Whitefield,Bangalore,4.8,500,Closed,98XXXX2131,619,No
+132,Tandoori Treat,Biryani,Electronic City,Bangalore,4,400,Open,98XXXX2132,300,No
+133,Udupi Delight,Cafe,Jayanagar,Bangalore,4.1,300,Open,98XXXX2133,834,No
+134,Burger Point,South Indian,Indiranagar,Bangalore,4.2,500,Closed,98XXXX2134,608,Yes
+135,Biryani House,Cafe,Koramangala,Bangalore,4.5,400,Open,98XXXX2135,492,No
+136,Dosa Corner,Fast Food,Hebbal,Bangalore,4.6,300,Open,98XXXX2136,104,No
+137,Cafe Aroma,Pizza,Marathahalli,Bangalore,4.5,200,Open,98XXXX2137,990,No
+138,Pizza Town,North Indian,Yelahanka,Bangalore,4.3,300,Open,98XXXX2138,853,No
+139,Meals Magic,North Indian,Rajajinagar,Bangalore,4.2,250,Closed,98XXXX2139,283,Yes
+140,Grill Palace,South Indian,Banashankari,Bangalore,4.2,300,Open,98XXXX2140,211,No
+141,Spice Hub,Chinese,Whitefield,Bangalore,4,200,Closed,98XXXX2141,773,No
+142,Tandoori Treat,North Indian,Electronic City,Bangalore,4.2,500,Closed,98XXXX2142,775,No
+143,Udupi Delight,South Indian,Jayanagar,Bangalore,4.4,250,Open,98XXXX2143,596,No
+144,Burger Point,South Indian,Indiranagar,Bangalore,4.7,250,Open,98XXXX2144,520,Yes
+145,Biryani House,Biryani,Koramangala,Bangalore,4.2,300,Open,98XXXX2145,471,Yes
+146,Dosa Corner,North Indian,Hebbal,Bangalore,4.8,300,Open,98XXXX2146,745,No
+147,Cafe Aroma,Biryani,Marathahalli,Bangalore,4.8,150,Open,98XXXX2147,146,Yes
+148,Pizza Town,Cafe,Yelahanka,Bangalore,4,150,Closed,98XXXX2148,481,No
+149,Meals Magic,Cafe,Rajajinagar,Bangalore,3.9,200,Closed,98XXXX2149,186,No
+150,Grill Palace,South Indian,Banashankari,Bangalore,3.9,300,Open,98XXXX2150,82,Yes
+151,Spice Hub,Biryani,Whitefield,Bangalore,3.9,300,Open,98XXXX2151,545,Yes
+152,Tandoori Treat,North Indian,Electronic City,Bangalore,4.9,250,Closed,98XXXX2152,878,No
+153,Udupi Delight,South Indian,Jayanagar,Bangalore,3.9,400,Open,98XXXX2153,790,No
+154,Burger Point,Chinese,Indiranagar,Bangalore,3.8,400,Open,98XXXX2154,271,No
+155,Biryani House,North Indian,Koramangala,Bangalore,4,150,Open,98XXXX2155,228,Yes
+156,Dosa Corner,Pizza,Hebbal,Bangalore,4.7,150,Open,98XXXX2156,216,Yes
+157,Cafe Aroma,Pizza,Marathahalli,Bangalore,4.2,400,Open,98XXXX2157,966,Yes
+158,Pizza Town,Pizza,Yelahanka,Bangalore,4.6,500,Closed,98XXXX2158,521,No
+159,Meals Magic,Pizza,Rajajinagar,Bangalore,4.5,300,Closed,98XXXX2159,828,Yes
+160,Grill Palace,South Indian,Banashankari,Bangalore,4.2,500,Open,98XXXX2160,808,Yes
+161,Spice Hub,Biryani,Whitefield,Bangalore,4.9,200,Closed,98XXXX2161,924,No
+162,Tandoori Treat,Cafe,Electronic City,Bangalore,4.5,500,Closed,98XXXX2162,391,No
+163,Udupi Delight,North Indian,Jayanagar,Bangalore,4.8,200,Open,98XXXX2163,276,No
+164,Burger Point,Fast Food,Indiranagar,Bangalore,4.6,150,Open,98XXXX2164,535,No
+165,Biryani House,North Indian,Koramangala,Bangalore,3.8,400,Closed,98XXXX2165,643,Yes
+166,Dosa Corner,North Indian,Hebbal,Bangalore,4.5,250,Closed,98XXXX2166,343,No
+167,Cafe Aroma,Pizza,Marathahalli,Bangalore,3.9,200,Closed,98XXXX2167,96,Yes
+168,Pizza Town,Fast Food,Yelahanka,Bangalore,4.4,250,Open,98XXXX2168,594,No
+169,Meals Magic,Pizza,Rajajinagar,Bangalore,4.2,150,Open,98XXXX2169,887,No
+170,Grill Palace,Fast Food,Banashankari,Bangalore,4.4,150,Open,98XXXX2170,55,No
+171,Spice Hub,Chinese,Whitefield,Bangalore,4.6,150,Open,98XXXX2171,312,Yes
+172,Tandoori Treat,Fast Food,Electronic City,Bangalore,4.7,200,Open,98XXXX2172,648,Yes
+173,Udupi Delight,South Indian,Jayanagar,Bangalore,3.8,150,Open,98XXXX2173,561,No
+174,Burger Point,North Indian,Indiranagar,Bangalore,4.2,200,Open,98XXXX2174,360,No
+175,Biryani House,Cafe,Koramangala,Bangalore,4,400,Closed,98XXXX2175,629,No
+176,Dosa Corner,Cafe,Hebbal,Bangalore,4.9,500,Closed,98XXXX2176,513,Yes
+177,Cafe Aroma,Fast Food,Marathahalli,Bangalore,3.8,250,Open,98XXXX2177,559,No
+178,Pizza Town,North Indian,Yelahanka,Bangalore,4.5,250,Open,98XXXX2178,833,Yes
+179,Meals Magic,Biryani,Rajajinagar,Bangalore,4.3,250,Open,98XXXX2179,995,Yes
+180,Grill Palace,South Indian,Banashankari,Bangalore,4.7,500,Open,98XXXX2180,141,Yes
+181,Spice Hub,Biryani,Whitefield,Bangalore,4.4,250,Open,98XXXX2181,621,Yes
+182,Tandoori Treat,Cafe,Electronic City,Bangalore,3.9,250,Closed,98XXXX2182,69,Yes
+183,Udupi Delight,Biryani,Jayanagar,Bangalore,4.5,150,Open,98XXXX2183,207,No
+184,Burger Point,North Indian,Indiranagar,Bangalore,3.9,200,Closed,98XXXX2184,580,Yes
+185,Biryani House,Chinese,Koramangala,Bangalore,4.6,300,Closed,98XXXX2185,654,Yes
+186,Dosa Corner,Biryani,Hebbal,Bangalore,4,300,Open,98XXXX2186,840,No
+187,Cafe Aroma,Cafe,Marathahalli,Bangalore,4.5,300,Closed,98XXXX2187,514,No
+188,Pizza Town,North Indian,Yelahanka,Bangalore,4.6,200,Open,98XXXX2188,912,Yes
+189,Meals Magic,South Indian,Rajajinagar,Bangalore,4.2,400,Closed,98XXXX2189,659,Yes
+190,Grill Palace,North Indian,Banashankari,Bangalore,3.9,500,Open,98XXXX2190,827,Yes
+191,Spice Hub,Chinese,Whitefield,Bangalore,4.3,500,Closed,98XXXX2191,815,Yes
+192,Tandoori Treat,Biryani,Electronic City,Bangalore,4.8,300,Open,98XXXX2192,585,No
+193,Udupi Delight,Chinese,Jayanagar,Bangalore,4.5,500,Open,98XXXX2193,52,No
+194,Burger Point,Fast Food,Indiranagar,Bangalore,4,200,Open,98XXXX2194,700,Yes
+195,Biryani House,Biryani,Koramangala,Bangalore,4.3,500,Open,98XXXX2195,687,No
+196,Dosa Corner,Fast Food,Hebbal,Bangalore,4.9,300,Closed,98XXXX2196,348,No
+197,Cafe Aroma,North Indian,Marathahalli,Bangalore,4.9,200,Closed,98XXXX2197,736,Yes
+198,Pizza Town,North Indian,Yelahanka,Bangalore,4.6,500,Closed,98XXXX2198,323,No
+199,Meals Magic,Pizza,Rajajinagar,Bangalore,4.5,400,Open,98XXXX2199,422,No
+200,Grill Palace,South Indian,Banashankari,Bangalore,4,150,Closed,98XXXX2200,290,Yes
